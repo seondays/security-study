@@ -1,11 +1,11 @@
-package com.example.testjwtsecurity;
+package com.example.securityStudy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecurityApplication {
+public class SecurityStudyApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SecurityApplication.class, args);
+        SpringApplication.run(SecurityStudyApplication.class, args);
     }
 }
